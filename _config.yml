@@ -18,7 +18,7 @@ highlighter: pygments
 title:       "Radoslaw Stankiewicz"
 keywords:    "Radoslaw Stankiewicz zagwozdka"
 description: "Radoslaw Stankiewicz personal website zagwozdka"
-source_link: ## "https://github.com/t413/SinglePaged"
+source_link: "https://github.com/t413/SinglePaged"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key:  UA-43930216-7
